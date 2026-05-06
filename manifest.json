@@ -2,7 +2,7 @@
   "name": "The Disciplined Underdog",
   "short_name": "Underdog",
   "description": "A No-Fluff System for Building Wealth, Health, and Success",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0f0f13",
   "theme_color": "#f5a623",
@@ -11,19 +11,19 @@
   "categories": ["books", "education"],
   "icons": [
     {
-      "src": "/pwa-icons/icon-192.png",
+      "src": "./pwa-icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/pwa-icons/icon-512.png",
+      "src": "./pwa-icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/pwa-icons/icon-maskable.png",
+      "src": "./pwa-icons/icon-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -33,7 +33,7 @@
   "shortcuts": [
     {
       "name": "Start Reading",
-      "url": "/",
+      "url": "./",
       "description": "Continue reading The Disciplined Underdog"
     }
   ]

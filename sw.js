@@ -1,11 +1,12 @@
-const CACHE_NAME = 'underdog-book-v1';
+const CACHE_NAME = 'underdog-book-v1.1';
+const BASE = './';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/favicon.svg',
-  '/pwa-icons/icon-192.png',
-  '/pwa-icons/icon-512.png',
+  BASE,
+  BASE + 'index.html',
+  BASE + 'manifest.json',
+  BASE + 'favicon.svg',
+  BASE + 'pwa-icons/icon-192.png',
+  BASE + 'pwa-icons/icon-512.png',
 ];
 
 self.addEventListener('install', (event) => {
