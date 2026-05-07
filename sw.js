@@ -1,4 +1,4 @@
-const CACHE_NAME = 'underdog-book-v1.0.20.8b4ad8989a62';
+const CACHE_NAME = 'underdog-book-v1.0.21.312ce8f1929c';
 const BASE = './';
 const ASSETS = [
   BASE,
